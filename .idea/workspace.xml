@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61c449c2-75b2-4f24-8932-a10eaf85856c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LambdaAndFunctionalInterface/predicate_as_function/StringProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LambdaAndFunctionalInterface/predicate_as_function/StringProcessorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaAndFunctionalInterface/predicate_chaining/PredicateChaining.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +51,13 @@
       <recent name="LambdaAndFunctionalInterface.predicate" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringProcessorMain">
-    <configuration name="FunctionalLambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpression.example1.FunctionalLambdaMain" />
+  <component name="RunManager" selected="Application.PredicateChaining">
+    <configuration name="PredicateChaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaAndFunctionalInterface.predicate_chaining.PredicateChaining" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpression.example1.*" />
+          <option name="PATTERN" value="LambdaAndFunctionalInterface.predicate_chaining.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateChaining" />
         <item itemvalue="Application.StringProcessorMain" />
         <item itemvalue="Application.PredicateExample2" />
         <item itemvalue="Application.PredicateExample1" />
         <item itemvalue="Application.SortingCollection" />
-        <item itemvalue="Application.FunctionalLambdaMain" />
       </list>
     </recent_temporary>
   </component>
