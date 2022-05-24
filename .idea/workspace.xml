@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61c449c2-75b2-4f24-8932-a10eaf85856c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpression/example2/SortingCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaAndFunctionalInterface/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaAndFunctionalInterface/predicate/PredicateExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +47,26 @@
     "dart.analysis.tool.window.visible": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SortingCollection">
+  <component name="RunManager" selected="Application.PredicateExample1">
     <configuration name="FunctionalLambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaExpression.example1.FunctionalLambdaMain" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lambdaExpression.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaAndFunctionalInterface.predicate.PredicateExample1" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaAndFunctionalInterface.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateExample1" />
         <item itemvalue="Application.SortingCollection" />
         <item itemvalue="Application.FunctionalLambdaMain" />
       </list>
